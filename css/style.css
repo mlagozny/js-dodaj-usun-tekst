@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    color: red;
+    background-color: burlywood;
+}
+#dodaj {
+    color: rgb(62, 90, 20)
+}
+#usun {
+    color: indigo;
+}
+p {
+    background-color: pink;
+}
